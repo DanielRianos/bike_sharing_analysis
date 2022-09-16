@@ -1,8 +1,8 @@
 # Bike Sharing Analysis :bike:
 
-Demand analysis and forecast for a bike-sharing company
+This is a demand analysis and forecast for a bike-sharing company.
 
-Capital Bikeshare would like to find out how many bicycles need to be ready at a given time in the Washington, D.C. market
+Capital Bikeshare would like to find out how many bicycles need to be ready at a given time in the Washington, D.C. market.
 
 ## :dart: Goal: 
 
